@@ -1,8 +1,10 @@
 Task-05
     What strange text file is in the website root directory?
     ANS) drpepper.txt
+
     How many non-root/non-service/non-daemon users are there?
-    0
+    ANS)0
+
     What user is this app running as?
     www-data
     What is the user's shell set as?
