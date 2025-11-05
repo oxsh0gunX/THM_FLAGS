@@ -3,12 +3,13 @@ Task-05
     ANS) drpepper.txt
 
     How many non-root/non-service/non-daemon users are there?
-    ANS)0
+    ANS) 0
 
     What user is this app running as?
-    www-data
+    ANS) www-data
+
     What is the user's shell set as?
-    /usr/sbin/nologin
+    ANS) /usr/sbin/nologin
     What version of Ubuntu is running?
     18.04.4
     Print out the MOTD.  What favorite beverage is shown?
