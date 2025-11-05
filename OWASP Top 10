@@ -10,8 +10,10 @@ Task-05
 
     What is the user's shell set as?
     ANS) /usr/sbin/nologin
+
     What version of Ubuntu is running?
     ANS) 18.04.4
+
     Print out the MOTD.  What favorite beverage is shown?
     Dr Pepper
   
