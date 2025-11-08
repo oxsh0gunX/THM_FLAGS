@@ -27,16 +27,16 @@ Task 7
 
 Task 11
     What is the name of the mentioned directory?
-    ANS)/assets
+    ANS) /assets
 
     Navigate to the directory you found in question one. What file stands out as being likely to contain sensitive data?
-    webapp.db
+    ANS) webapp.db
 
    Use the supporting material to access the sensitive data. What is the password hash of the admin user?
-   6eea9b7ef19179a06954edd0f6c05ceb
+   ANS) 6eea9b7ef19179a06954edd0f6c05ceb
 
    What is the admin's plaintext password?
-   qwertyuiop
+   ANS) qwertyuiop
 
    Login as the admin. What is the flag?
-   THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
+   ANS) THM{Yzc2YjdkMjE5N2VjMzNhOTE3NjdiMjdl}
